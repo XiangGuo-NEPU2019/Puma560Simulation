@@ -4,4 +4,4 @@ This project is to derive programs for simulation of inverse dynamics and contro
 
 All the 5 program files are written in MATLAB, and each is run independently. 
 
-For project principle and other details, please refer to izhengfan.github.io/puma.html.
+For project principle and other details, please refer to http://izhengfan.github.io/puma.html.
